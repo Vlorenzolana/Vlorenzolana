@@ -47,8 +47,4 @@ Stay tuned for updates and contributions!
 💼 [LinkedIn](https://www.linkedin.com/in/vlorenzolana)  
 📂 [GitHub](https://github.com/Vlorenzolana)  
 🌍 [hybridoa.org](https://hybridoa.org)  
-
----
-
 _"There is (n0) future if we (dont) project it."_ ✨
-![camera obscura](https://github.com/user-attachments/assets/6c764340-f678-42de-b9e2-654314ac3d74)
