@@ -1,4 +1,4 @@
-# 👋 Vanessa Lorenzo Toquero aka Hybridoa 
+# 👋 Vanessa Lorenzo Toquero
 ### Software Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa%20Lorenzo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vlorenzolana)  
 ---
