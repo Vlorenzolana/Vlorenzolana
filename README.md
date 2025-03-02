@@ -3,8 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vanessa%20Lorenzo-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vlorenzolana)  
 ---
 
-### 📍 About Me!
-### 🛠 Technical Skills
+### 📍 Technical Skills
 **Programming Languages**  
 🔹 C, C++, and scripting languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlorenzolana&layout=compact)](https://github.com/Vlorenzolana)  
