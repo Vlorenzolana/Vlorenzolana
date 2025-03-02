@@ -1,7 +1,4 @@
-# 👋 Vanessa Lorenzo Toquero
-### Software Developer
----
-
+## Software Developer
 ### 📍 Technical Skills
 **Programming Languages**  
 🔹 C, C++, and scripting languages  
