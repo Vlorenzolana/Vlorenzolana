@@ -36,15 +36,7 @@
 
 ---
 
-### 📊 Activity & Engagement  
-Stay tuned for updates and contributions!  
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=count&url=https://komarev.com/ghpvc/?username=Vlorenzolana)  
-
----
-
 ### 📫 Contact
-
 💼 [LinkedIn](https://www.linkedin.com/in/vlorenzolana)  
-📂 [GitHub](https://github.com/Vlorenzolana)  
 🌍 [hybridoa.org](https://hybridoa.org)  
 _"There is (n0) future if we (dont) project it."_ ✨
