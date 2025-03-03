@@ -2,7 +2,7 @@
 ### 📍 Technical Skills
 **Programming Languages**  
 🔹 C, C++, and scripting languages   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlorenzolana&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlorenzolana&layout=compact&theme=dark)  
 **Development Tools**  
 🔹 Makefile, CMake, GDB, LLDB  
 🔹 Embedded hardware programming and execution  
