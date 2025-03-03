@@ -1,9 +1,8 @@
 ## Software Developer
 ### 📍 Technical Skills
 **Programming Languages**  
-🔹 C, C++, and scripting languages  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlorenzolana&layout=compact)](https://github.com/Vlorenzolana)  
-
+🔹 C, C++, and scripting languages   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vlorenzolana&layout=compact&theme=dark)(https://github.com/Vlorenzolana)
 **Development Tools**  
 🔹 Makefile, CMake, GDB, LLDB  
 🔹 Embedded hardware programming and execution  
