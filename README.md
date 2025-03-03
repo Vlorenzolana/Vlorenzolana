@@ -33,4 +33,4 @@
 ### 📫 Contact
 💼 [LinkedIn](https://www.linkedin.com/in/vlorenzolana)  
 🌍 [hybridoa.org](https://hybridoa.org)  
-_"There is (n0) future if we (dont) project it."_ ✨
+_"There is (n0) future, if we (dont) project it."_ ✨
