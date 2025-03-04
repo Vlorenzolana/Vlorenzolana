@@ -10,9 +10,9 @@
 🔹 Testing: Integration, regression, and incremental testing  
 
 **Methodologies**  
-🔹 MVP-based conceptualization 
-🔹 Scrum Agile-based development 
-🔹 Continuous Integration (CI)  
+🔹 MVP-based conceptualization   
+🔹 Scrum Agile-based development   
+🔹 Continuous Integration (CI)    
 
 **Communication Protocols**  
 🔹 IoT experience  
