@@ -22,8 +22,8 @@
 ---
 
 ### 🌎 Languages
-- **Español** (Native)  
 - **English** (C1)  
+- **Español** (Native)  
 - **Euskera** (C1)    
 - **Français** (C1)  
 - **Deutsch** (B2)  
