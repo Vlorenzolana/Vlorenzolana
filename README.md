@@ -31,6 +31,6 @@
 ---
 
 ### 📫 Contact
-💼 [LinkedIn]([https://www.linkedin.com/in/vlorenzotoquero/](https://www.linkedin.com/in/vlorenzotoquero/)  
-🌍 [hybridoa.org](https://hybridoa.org)  
+💼 ![LinkedIn:vlorenzotoquero](https://www.linkedin.com/in/vlorenzotoquero/)  
+🌍 ![hybridoa.org](https://hybridoa.org)  
 _"There is (n0) future, if we (dont) project it."_ ✨
