@@ -10,8 +10,8 @@
 🔹 Testing: Integration, regression, and incremental testing  
 
 **Methodologies**  
-🔹 MVP-based conceptualization and development  
-🔹 Scrum Agile-based framework  
+🔹 MVP-based conceptualization 
+🔹 Scrum Agile-based development 
 🔹 Continuous Integration (CI)  
 
 **Communication Protocols**  
